@@ -1,0 +1,17 @@
+{
+  "name": "동덕 여행 · 교실배치도로 만나는 우리 학교",
+  "short_name": "동덕 여행",
+  "start_url": "/dongduk-school-walk/",
+  "scope": "/dongduk-school-walk/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#f3eedf",
+  "theme_color": "#f3eedf",
+  "icons": [
+    {
+      "src": "/dongduk-school-walk/leaf.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
