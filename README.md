@@ -8,4 +8,4 @@
 
 원작: https://github.com/dossamlab/school-travel
 
-코드 MIT · 주인공 캐릭터 dossamlab / Meshy, CC BY 4.0. 자세한 출처는 ASSET_CREDITS.md를 참고하세요.
+코드 MIT · 현재 여학생 캐릭터는 로컬 Three.js로 자체 제작한 가상 인물입니다. 보존된 원본 Meshy 캐릭터는 dossamlab / Meshy, CC BY 4.0입니다. 자세한 출처는 ASSET_CREDITS.md를 참고하세요.
